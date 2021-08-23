@@ -3,16 +3,16 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): Tran / Justin
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [tranj76(at)mcmaster(dot)ca](mailto:tranj76@mcmaster.ca)
 
-Date of birth: Write your date of birth here
+Date of birth: October 24, 2002
 
 ### About Me
 
-Write a few sentences describing you the best.
-
+I am a second year chemical and bioengineering student at McMaster University.
+I like solutions in health care!
 
 
 ```markdown
